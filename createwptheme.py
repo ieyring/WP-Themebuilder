@@ -18,10 +18,10 @@ class generator:
       mystring = '''/*
       Template Name: 
       Theme Name: %s Template
-      Theme URI: https://e-si.de
-      Description: Theme für %s
-      Author: Ingo Eyring
-      Author URI: https://e-si.de
+      Theme URI: <%s>
+      Description: Theme for %s
+      Author: <yourname>
+      Author URI: <yoururl>
       */
       .hide {display: none}
       '''
