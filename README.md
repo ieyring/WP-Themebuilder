@@ -1,7 +1,7 @@
 # WP-Themebuilder
 Python script that creates a simple theme Prototype for WordPress 
 --------------------
-Author: Ingo Eyring <ingoeyring@googlemail.com>
+Author: Ingo Eyring <ieyring@users.noreply.github.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the 
 GNU General Public License as published by the Free Software Foundation, either version 3 of
